@@ -35,8 +35,8 @@ Here's a curated list of FAQs, categorized for your (in)convenience:
 
 ###  "Helpful" Links
 
-*   [The Official HSBJ Website](https://www.google.com) (Disclaimer: This link leads to a generic example domain. There is no official HSBJ website.)
-*   [HSBJ Community Forum](https://www.google.com) (Another generic link.  Don't get your hopes up.)
+*   [The Official HSBJ Website](https://www.google.com) 
+*   [HSBJ Community Forum](https://www.google.com) 
 
 ## Contribution Guidelines
 
